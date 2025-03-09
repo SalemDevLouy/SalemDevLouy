@@ -1,31 +1,69 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Salem Louafi</h1>
-<h3 align="center">A passionate frontend developer from Algeria</h3>
-<img align='right' alt='coding' width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+## Hi there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SalemDevLouy&label=Profile%20views&color=0e75b6&style=flat" alt="SalemDevLouy" /> </p>
+I'm **Salem Louafi**, a passionate **Software Engineering Student** and **JavaScript Developer** specializing in **MERN** stack and **Next.js** development. I love creating dynamic and responsive web applications that enhance user experiences.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## About Me
 
-- 🌱 I’m currently learning **Front-end Framwork**
+I'm currently a software engineering student with a focus on JavaScript development. My journey in tech began with a curiosity about how things work, which led me to explore web development. I enjoy learning new technologies and continuously improving my skills. While I don't have a specific location listed, I am always open to opportunities that allow me to grow and contribute.
 
-- 💬 Ask me about **react ,next**
+## Skills & Technologies
 
-- 📫 How to reach me **louafisalem79@gmail.com**
+js,nextjs,nodejs,express,react,mongodb,mysql,postgres,appwrite,tailwind,css,html,java,ai,nginx,anaconda,electron,django,php,androidstudio,linux,github,git,docker,kubernetes,heroku,vscode
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/salem louafi officiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salem louafi officiel" height="30" width="40" /></a>
-<a href="https://fb.com/sd loua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sd loua" height="30" width="40" /></a>
-<a href="https://instagram.com/salem_louafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salem_louafi" height="30" width="40" /></a>
-</p>
+## Top Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+- [linuxupskillchallenge](https://github.com/SalemDevLouy/linuxupskillchallenge): Learn the skills required to sysadmin a remote Linux server from the command line. **Stars:** 0, **Language:** N/A
+- [nextjs-14-auth-v5](https://github.com/SalemDevLouy/nextjs-14-auth-v5): Next.js Auth tutorial by Code with Antonio. **Stars:** 0, **Language:** N/A
+- [Artificial_Intelligence_Module](https://github.com/SalemDevLouy/Artificial_Intelligence_Module): A module focusing on artificial intelligence concepts. **Stars:** 0, **Language:** Jupyter Notebook
+- [grage_calculator](https://github.com/SalemDevLouy/grage_calculator): A mobile app developed using Java for grade calculations. **Stars:** 0, **Language:** Java
+- [DWAM](https://github.com/SalemDevLouy/DWAM): Landing page for the web development and mobile applications major at the University of Djelfa. **Stars:** 2, **Language:** TypeScript
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalemDevLouy&show_icons=true&locale=en&layout=compact" alt="SalemDevLouy" /></p>
+## GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SalemDevLouy&show_icons=true&locale=en" alt="SalemDevLouy" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalemDevLouy&show_icons=true&count_private=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SalemDevLouy&" alt="SalemDevLouy" /></p>
+- **Public Repositories:** 25
+- **Followers:** 4
+- **Following:** 6
+
+## Recent Activity
+
+Here are some of my latest GitHub activities:
+- Forked [linuxupskillchallenge](https://github.com/SalemDevLouy/linuxupskillchallenge) on **February 25, 2025**.
+- Created a new repository [Linux_repo](https://github.com/SalemDevLouy/Linux_repo) on **February 25, 2025**.
+- Forked [nextjs-14-auth-v5](https://github.com/SalemDevLouy/nextjs-14-auth-v5) on **February 17, 2025**.
+- Pushed updates to [katoolin](https://github.com/SalemDevLouy/katoolin) on **February 7, 2025**.
+
+## Latest Blog Posts
+
+Currently, I don't have any blog posts or articles published, but I'm working on sharing my knowledge soon!
+
+## Connect with Me
+
+{"instagram":"https://www.instagram.com/salem_louafi","facebook":"https://www.facebook.com/abdeldjouad.louafi","linkedin":"https://www.linkedin.com/in/salem-louafi-officiel-532869235/"}
+
+## My Talks
+
+- [Talk Title](link-to-talk) - Brief description of the talk
+
+## Certifications
+
+- [Certification Name](link-to-certificate) - Issuing organization, Year
+
+## Publications
+
+- [Publication Title](link-to-publication) - Journal/Conference, Year
+
+## ASCII Art
+
+```
+  ____        _                ____             _                      
+ / ___|  __ _| | ___ _ __ ___ |  _ \  _____   _| |    ___  _   _ _   _ 
+ \___ \ / _` | |/ _ \ '_ ` _ \| | | |/ _ \ \ / / |   / _ \| | | | | | |
+  ___) | (_| | |  __/ | | | | | |_| |  __/\ V /| |__| (_) | |_| | |_| |
+ |____/ \__,_|_|\___|_| |_| |_|____/ \___| \_/ |_____\___/ \__,_|\__, |
+                                                                 |___/ 
+```
 
