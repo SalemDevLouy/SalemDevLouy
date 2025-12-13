@@ -1,69 +1,108 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Salem Louafi</h1>
-## Hi there! 👋
 
-I'm **Salem Louafi**, a passionate **Software Engineering Student** and **JavaScript Developer** specializing in **MERN** stack and **Next.js** development. I love creating dynamic and responsive web applications that enhance user experiences.
+<h1 align="center">Salem Louafi</h1>
+<p align="center">
+Software Engineering Student • JavaScript Developer • Web & Systems Enthusiast
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/salem-louafi-officiel-532869235/">LinkedIn</a> •
+<a href="https://www.instagram.com/salem_louafi">Instagram</a> •
+<a href="https://github.com/SalemDevLouy">GitHub</a>
+</p>
+
+---
 
 ## About Me
 
-I'm currently a software engineering student with a focus on JavaScript development. My journey in tech began with a curiosity about how things work, which led me to explore web development. I enjoy learning new technologies and continuously improving my skills. While I don't have a specific location listed, I am always open to opportunities that allow me to grow and contribute.
+I’m a **software engineering student** focused on building **real-world web applications**, not tutorial graveyards.  
+My core stack is **JavaScript**, with hands-on experience in **MERN** and **Next.js**, plus growing interest in **Linux, Docker, and deployment workflows**.
 
-## Skills & Technologies
+I care about:
+- clean architecture over hacks  
+- understanding how systems actually run  
+- shipping things that work, not just compile  
 
-js,nextjs,nodejs,express,react,mongodb,mysql,postgres,appwrite,tailwind,css,html,java,ai,nginx,anaconda,electron,django,php,androidstudio,linux,github,git,docker,kubernetes,heroku,vscode
+Still learning. Still breaking things. Still improving.
 
-## Top Projects
+---
 
-- [linuxupskillchallenge](https://github.com/SalemDevLouy/linuxupskillchallenge): Learn the skills required to sysadmin a remote Linux server from the command line. **Stars:** 0, **Language:** N/A
-- [nextjs-14-auth-v5](https://github.com/SalemDevLouy/nextjs-14-auth-v5): Next.js Auth tutorial by Code with Antonio. **Stars:** 0, **Language:** N/A
-- [Artificial_Intelligence_Module](https://github.com/SalemDevLouy/Artificial_Intelligence_Module): A module focusing on artificial intelligence concepts. **Stars:** 0, **Language:** Jupyter Notebook
-- [grage_calculator](https://github.com/SalemDevLouy/grage_calculator): A mobile app developed using Java for grade calculations. **Stars:** 0, **Language:** Java
-- [DWAM](https://github.com/SalemDevLouy/DWAM): Landing page for the web development and mobile applications major at the University of Djelfa. **Stars:** 2, **Language:** TypeScript
+## Tech Stack
+
+**Frontend**
+- JavaScript (ES6+), React, Next.js  
+- HTML, CSS, Tailwind CSS  
+
+**Backend**
+- Node.js, Express  
+- REST APIs, basic auth flows  
+
+**Databases**
+- MongoDB, MySQL, PostgreSQL  
+- Appwrite  
+
+**DevOps & Systems**
+- Linux, Nginx  
+- Docker, Docker Compose  
+- Git & GitHub  
+
+**Other Tools**
+- Java, PHP, Django (basics)  
+- Electron  
+- VS Code, Android Studio  
+- Anaconda (AI coursework)
+
+---
+
+## Featured Projects
+
+### 🔹 DWAM
+Landing page for the Web & Mobile Development major at the University of Djelfa  
+**Tech:** TypeScript, modern frontend tooling  
+⭐ 2 stars
+
+### 🔹 linuxupskillchallenge
+Hands-on Linux server administration practice  
+**Focus:** CLI, system fundamentals
+
+### 🔹 nextjs-14-auth-v5
+Authentication implementation with Next.js 14  
+**Focus:** auth flows, modern Next.js patterns
+
+### 🔹 Artificial_Intelligence_Module
+University module covering AI fundamentals  
+**Tech:** Jupyter Notebook
+
+### 🔹 grade_calculator
+Simple Android app for academic grade calculation  
+**Tech:** Java
+
+---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalemDevLouy&show_icons=true&count_private=true&theme=radical)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SalemDevLouy&show_icons=true&theme=radical" />
+</p>
 
-- **Public Repositories:** 25
-- **Followers:** 4
-- **Following:** 6
+- Public repos: 25  
+- Focus: learning-by-building, not padding stars  
 
-## Recent Activity
+---
 
-Here are some of my latest GitHub activities:
-- Forked [linuxupskillchallenge](https://github.com/SalemDevLouy/linuxupskillchallenge) on **February 25, 2025**.
-- Created a new repository [Linux_repo](https://github.com/SalemDevLouy/Linux_repo) on **February 25, 2025**.
-- Forked [nextjs-14-auth-v5](https://github.com/SalemDevLouy/nextjs-14-auth-v5) on **February 17, 2025**.
-- Pushed updates to [katoolin](https://github.com/SalemDevLouy/katoolin) on **February 7, 2025**.
+## Current Focus
 
-## Latest Blog Posts
+- Deepening JavaScript and Next.js knowledge  
+- Improving Linux + Docker workflow understanding  
+- Writing cleaner, more maintainable code  
+- Moving from “student projects” to “production mindset”
 
-Currently, I don't have any blog posts or articles published, but I'm working on sharing my knowledge soon!
+---
 
-## Connect with Me
+## Notes
 
-{"instagram":"https://www.instagram.com/salem_louafi","facebook":"https://www.facebook.com/abdeldjouad.louafi","linkedin":"https://www.linkedin.com/in/salem-louafi-officiel-532869235/"}
+- No fake hype  
+- No “full-stack ninja” nonsense  
+- Progress over perfection  
 
-## My Talks
-
-- [Talk Title](link-to-talk) - Brief description of the talk
-
-## Certifications
-
-- [Certification Name](link-to-certificate) - Issuing organization, Year
-
-## Publications
-
-- [Publication Title](link-to-publication) - Journal/Conference, Year
-
-## ASCII Art
-
-```
-  ____        _                ____             _                      
- / ___|  __ _| | ___ _ __ ___ |  _ \  _____   _| |    ___  _   _ _   _ 
- \___ \ / _` | |/ _ \ '_ ` _ \| | | |/ _ \ \ / / |   / _ \| | | | | | |
-  ___) | (_| | |  __/ | | | | | |_| |  __/\ V /| |__| (_) | |_| | |_| |
- |____/ \__,_|_|\___|_| |_| |_|____/ \___| \_/ |_____\___/ \__,_|\__, |
-                                                                 |___/ 
-```
-
+If you’re here, feel free to explore the repos. Some are rough. That’s the point.
