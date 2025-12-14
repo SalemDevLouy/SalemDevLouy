@@ -6,7 +6,7 @@ Software Engineering Student • JavaScript Developer • Web & Systems Enthusia
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/salem-louafi-officiel-532869235/">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/salem-louafi-off">LinkedIn</a> •
 <a href="https://www.instagram.com/salem_louafi">Instagram</a> •
 <a href="https://github.com/SalemDevLouy">GitHub</a>
 </p>
