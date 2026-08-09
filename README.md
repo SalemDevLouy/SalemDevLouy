@@ -148,7 +148,7 @@ Simple Android app for academic grade calculation.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalemDevLouy&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-- Public repos: 25
+- Public repos: 52
 - Focus: learning-by-building, not padding stars
 
 ---
