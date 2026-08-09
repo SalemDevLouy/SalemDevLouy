@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./github-header-image.png)
+![Header](./cover.png)
 
 # Salem Louafi (Al Wafi Salem Abdeljawad)
 
