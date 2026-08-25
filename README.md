@@ -140,12 +140,12 @@ Simple Android app for academic grade calculation.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalemDevLouy&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalemDevLouy&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SalemDevLouy&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=SalemDevLouy&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalemDevLouy&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalemDevLouy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 - Public repos: 52
