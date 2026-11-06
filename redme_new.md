@@ -145,7 +145,7 @@ Simple Android app for academic grade calculation.
 
 | 🔨 Current Focus (Last 28 Days) | 🤝 Collaboration & Productivity (Last 28 Days) |
 | :---: | :---: |
-| <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_login=SalemDevLouy&image_size=auto" alt="SalemDevLouy Currently Working On" /> | <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?user_login=SalemDevLouy&image_size=auto" alt="SalemDevLouy Collaborative Productivity" /> |
+| <img src="https://api.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=108785642&image_size=auto" alt="SalemDevLouy Currently Working On" /> | <img src="https://api.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?user_id=108785642&image_size=auto" alt="SalemDevLouy Collaborative Productivity" /> |
 
 <br/>
 
